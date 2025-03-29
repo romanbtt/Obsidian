@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "006acddcbfdddb41",
+        "id": "cf23a22ae8bf031e",
         "type": "tabs",
         "children": [
           {
-            "id": "1f714f4b8d0526e9",
+            "id": "af3d11d6d9636801",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
@@ -166,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f714f4b8d0526e9",
+  "active": "af3d11d6d9636801",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Personal",
+    "QuestPig",
+    "Welcome.md",
+    "Giro"
   ]
 }
