@@ -1,3 +1,8 @@
-```\tasks
-done on 2025-03-28
 ```
+\tasks
+done on {{date:YYYY-MM-DD}}
+```
+
+
+
+- [x] test ✅ 2025-03-29
