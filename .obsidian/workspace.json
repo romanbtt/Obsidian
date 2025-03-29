@@ -155,14 +155,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "15f8332dc5b70d7d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af3d11d6d9636801",
+  "active": "13c2f3855c1bc088",
   "lastOpenFiles": [
     "Personal",
     "QuestPig",
