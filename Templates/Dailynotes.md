@@ -1,8 +1,9 @@
 ---
-date: {{date:YYYY-MM-DD}}
-tags: [daily, journal]
-week: [[Week date:YYYY-WW]]
-month: [[{{date:YYYY-MM}}]]
+date:
+  "{ date:YYYY-MM-DD }": 
+tags:
+  - daily
+  - journal
 ---
 
 # 📅 {{date:YYYY-MM-DD}} ({{date:dddd}})
@@ -24,3 +25,17 @@ month: [[{{date:YYYY-MM}}]]
 ```tasks
 not done
 due today
+```
+
+## ⏳ **Overdue Tasks**
+```tasks
+due before today
+no scheduled date
+is not recurring
+not done
+sort by priority
+```
+
+```
+```
+
